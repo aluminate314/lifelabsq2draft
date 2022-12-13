@@ -72,6 +72,18 @@ h2 {
     font-family: 'Nunito';
 }
 
+a {
+  color: white;
+}
+
+a:hover {
+  color: #01b4bc;
+}
+
+a:visited {
+    color: #fa5457;
+}
+
 .sidebar {
     height: 100%;
     width: 0;
